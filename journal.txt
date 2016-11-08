@@ -5,4 +5,4 @@ Title:
 How patterns of oral Glucocorticoid Therapy affect bone health
 
 Introduction:
-We investigated how different patterns of glucocoritcoid therapy affect fracutre risk using the electronic database CPRD.
+We investigated how different patterns of glucocoritcoid therapy affect fracutre risk using the electronic database CPRD. Previous studies have looked into the effect of oral glucocorticoid therapy on fracutre risk but none have yet considered the effects of they dynamic method of the treatment.
