@@ -1,6 +1,7 @@
 Author:
-Danielle Robinson
 John Smith
+Danielle Robinson
+
 
 Title: 
 How patterns of GC therapy affect bone health
