@@ -3,3 +3,6 @@ Danielle Robinson
 
 Title: 
 How patterns of oral Glucocorticoid Therapy affect bone health
+
+Introduction:
+We investigated how different patterns of glucocoritcoid therapy affect fracutre risk using the electronic database CPRD.
