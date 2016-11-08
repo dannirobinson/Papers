@@ -5,6 +5,8 @@ John Smith
 Title: 
 How patterns of GC therapy affect bone health
 
+Abstract:
+short status!
 
 Introduction:
 We investigated how different patterns of glucocoritcoid therapy affect fracutre risk using the electronic database CPRD. Previous studies have looked into the effect of oral glucocorticoid therapy on fracture risk but none have yet considered the effects of they dynamic method of the treatment.
