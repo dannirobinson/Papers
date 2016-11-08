@@ -1,7 +1,6 @@
 Author:
-John Smith
-Danielle Robinson
-
+John Smith, Open university
+Danielle Robinson, Universtiy of Manchester
 
 Title: 
 How patterns of GC therapy affect bone health
