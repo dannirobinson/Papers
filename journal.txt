@@ -12,5 +12,8 @@ We investigated how different patterns of glucocoritcoid therapy affect fracutre
 Methods:
 lots of stats were used
 
+Results:
+We identified 20000 patients suitable for inclusion in...
+
 Conclusions:
 it was awesome!
